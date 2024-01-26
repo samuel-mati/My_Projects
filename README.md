@@ -1,1 +1,1 @@
-My first readme
+For this course, I am getting started with GitHub, creating a new repo, cloning it to a local repo, using a personal access token, adding new files, committing the changes and pushing them to reflecct in the remotre repo. It is an interesting journey one that am eager to pursue.
